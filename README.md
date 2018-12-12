@@ -1,2 +1,2 @@
 # DadsApp
-Android app for Dad
+Android app personalized for my Dad
