@@ -1,0 +1,57 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+
+    android:layout_height="match_parent"
+
+    android:padding="5dp">
+
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_red_light"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/coming_soon"
+        android:scaleType="fitCenter"
+        android:adjustViewBounds="true"
+        />
+
+        <ImageView
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="100dp"
+            android:layout_width="360dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/miami"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            />
+
+        <ImageView
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="100dp"
+            android:layout_width="360dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/elon"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            />
+
+        <ImageView
+            android:layout_gravity="center_horizontal"
+            android:paddingTop="100dp"
+            android:layout_width="360dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ncstate"
+            android:scaleType="fitCenter"
+            android:adjustViewBounds="true"
+            android:paddingBottom="100dp"
+            />
+</LinearLayout>
+</ScrollView>
