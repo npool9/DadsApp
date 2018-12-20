@@ -1,5 +1,5 @@
 # DadsApp
-Android app for Dad
+Android app made specifically for my Dad
 
 ## Latest Edition: Christmas
 
