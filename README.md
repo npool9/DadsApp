@@ -11,7 +11,7 @@ Scrapes the web for the latest video, at each opening, from each of the followin
 5. NC State University
 6. NC State Wolfpack
 7. NC State Computer Science Department
-8. SAS Institute
+8. SAS Inc.
 
 ## Thank you
 
