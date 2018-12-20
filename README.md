@@ -13,7 +13,7 @@ Scrapes the web for the latest video, at each opening, from each of the followin
 7. NC State Computer Science Department
 8. SAS Institute
 
-## Thank you to
+## Thank you
 
 https://github.com/flipkart-incubator/android-inline-youtube-view
 
